@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.19.0](https://github.com/Josh-Sanford/very_good_workflows/compare/v1.18.0...v1.19.0) (2025-11-21)
+
+
+### Features
+
+* configure release-please settings ([731e015](https://github.com/Josh-Sanford/very_good_workflows/commit/731e015c5d0fd786724c9321a3b3ae28a424a267))
+* exclude paths that do not warrant a release ([e6ca9d7](https://github.com/Josh-Sanford/very_good_workflows/commit/e6ca9d701b54eb78b5c8e9ebe338f22fe28f56c6))
+
+
+### Miscellaneous Chores
+
+* format changelog ([1c0f30f](https://github.com/Josh-Sanford/very_good_workflows/commit/1c0f30f7aa011f14cd21be639e9b0a3ae5ae931b))
+* update contributing doc ([a9c05fe](https://github.com/Josh-Sanford/very_good_workflows/commit/a9c05feb7dbec8f741ba45d63da02a0de444e6b2))
+* upgrade ci to use flutter 3.35.0 ([#380](https://github.com/Josh-Sanford/very_good_workflows/issues/380)) ([a94cdf5](https://github.com/Josh-Sanford/very_good_workflows/commit/a94cdf5ce64c18ec54beee6daf35e3e0a6088f54))
+
+
+### Docs
+
+* add release process ([#343](https://github.com/Josh-Sanford/very_good_workflows/issues/343)) ([372f810](https://github.com/Josh-Sanford/very_good_workflows/commit/372f810df0f1dc1d5cbe498bd1a7208ddb978252))
+
 ## 1.18.0
 
 - fix: update mason creds example ([#263](https://github.com/VeryGoodOpenSource/very_good_workflows/pull/263))
